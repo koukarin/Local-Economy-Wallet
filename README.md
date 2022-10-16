@@ -56,7 +56,7 @@ And then, the coins and tokens of the second section will only be able to be spe
 All transactions with the same GPS coordinates (same town, city, area…) have no fees (of course the transaction fees of the blockchain will be applied).
 Transactions with different GPS coordinates will be operated with variable fees depending on the distance between the coordinates.
 
-Then, it’s not interesting to use your coins and tokens in other economies than your local one. But what could be the incentives to use the second section of our wallet? In other words, is there incentives to add a local component to some of our coins and tokens ?
+Then, it’s less interesting to use your coins and tokens in other economies than your local one. But what could be the incentives to use the second section of our wallet? In other words, is there incentives to add a local component to some of our coins and tokens ?
 
 ## Incentives
 For each city inside our list, we will create a main city wallet. When a user wallet linked to a city ‘A’ will send coins to a wallet linked to a city B, the applied fees will be sent to the main city wallet.
