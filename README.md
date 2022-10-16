@@ -104,3 +104,31 @@ $λ_B:$ Longitude of City B </br>
 </br>
 Then we calculate the % of fees. These fees will never be more than 10%:
 <p align="center">$fees = Distance / 1,000,000$</p>
+
+Following this method:
+- if the distance between Bob’s City and Alice’s City is equal to 1,000 km, then fees = 1%.
+- if the distance between Bob’s City and Alice’s City is equal to 5,000 km, then fees = 5%.
+- if the distance between Bob’s City and Alice’s City is equal to 10,000 km or more, then fees = 10%.
+- 
+These fees will be sent to the wallet which have same R4 and R5 than the input box. In other words, the fees will be sent to the main city wallet to which Bob’s LEW refers.
+
+***Case 3:***
+Bob wants to send Alice. Alice doesn’t use a LEW. 10% fees will be applied to this transaction and will be sent to the main city wallet to which Bob’s LEW refers.
+
+All the “local components” will be deleted. That means the R4, R5 and R6 of the output box will be  empty.
+
+***Case 4:***
+Bob wants to delete the “local components” of it currencies. He will be able to do that directly from his LEW.
+
+The wallet will issue a transaction with 10% fees to Bob’s same address but the R4, R5 and R6 of the output box will be empty. Now, Bob’s will see these coins in the first section of his LEW (the standards coins part). And he will be able to spend these coins from any wallet he wants.
+
+## Fees distribution
+A guard script is fixed on the main city wallets which receive the fees.
+
+When the wallet achieves a certain amount of coins and/or a block height, a transaction is issued to all the wallets linked to the city.
+
+By this way, the wealth is redistributed locally, decreasing the Global Economy pressure on the local area.
+
+We could also add conditions to receive the rewards.
+
+For example, in order to introduce a “liquid” component to the currency, we can imagine that the fees are distributed only to wallets that have been active during the last days. Therefore, we also create positive incentives to avoid hoarding.
