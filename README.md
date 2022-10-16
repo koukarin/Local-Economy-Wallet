@@ -98,7 +98,10 @@ We can obtain the distance in meters between their cities through GPS coordinate
 
 <p>$d_λ: λ_B-λ_A$</p>
 $ϕ_A:$ Latitude of City A
+
 $λ_A:$ Longitude of City A
+
 $ϕ_B:$ Latitude of City B
+
 $λ_B:$ Longitude of City B
 
