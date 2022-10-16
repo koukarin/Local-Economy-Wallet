@@ -97,8 +97,8 @@ We can obtain the distance in meters between their cities through GPS coordinate
 <p align="center">$Distance = arc cos (sin ϕ_A*sin ϕ_B + cos ϕ_A * cos ϕ_B * cos d_λ)$</p>
 
 <p>$d_λ: λ_B-λ_A$</p>
-$ϕ_A: Latitude of City A$
-$λ_A: Longitude of City B$
-$ϕ_B: Latitude of City B$
-$λ_B: Longitude of City B$
+$ϕ_A:$ Latitude of City A
+$λ_A:$ Longitude of City A
+$ϕ_B:$ Latitude of City B
+$λ_B:$ Longitude of City B
 
