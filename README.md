@@ -94,4 +94,4 @@ Bob wants to send coins to Alice. Their wallet is linked to two different cities
 The transaction compares R4 and R5 between input boxes and output boxes, which are different.
 
 We can obtain the distance in meters between their cities through GPS coordinates thanks to the following formula:
-$distance = arc cos (sin ϕA sin ϕB + cos ϕA cos ϕB cos dλ)$
+$Distance = arc cos (sin ϕA*sin ϕB + cos ϕA * cos ϕB * cos dλ)$
