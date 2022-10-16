@@ -3,7 +3,7 @@ Add a local component on cryptocurrencies based on Ergo
 
 # Global Economy
 We live in a world driven by the global economy. The industries and goods production tend to be made where the cost is the lowest.
-Usually, it is closely linked with the people living in the production area. It is a balance between salary cost and expertise, skills.
+Usually, it is closely linked to the people living in the production area. It is a balance between salary cost and expertise, skills.
 
 Therefore, goods with low-skilled needs are produced where buying human time is cheap. High technology goods are produced where people are able to make it even if their skills are expensive.
 
