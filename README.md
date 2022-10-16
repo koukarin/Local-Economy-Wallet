@@ -101,6 +101,6 @@ $ϕ_A:$ Latitude of City A </br>
 $λ_A:$ Longitude of City A </br>
 $ϕ_B:$ Latitude of City B </br>
 $λ_B:$ Longitude of City B </br>
-
+</br>
 Then we calculate the % of fees. These fees will never be more than 10%:
 <p align="center">$fees = Distance / 1,000,000$</p>
