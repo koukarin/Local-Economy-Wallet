@@ -76,9 +76,9 @@ Indeed, a LEW database keeps a link between GPS coordinates of main cities and w
 When an asset is sent from the first to the second section of the wallet, a local component is added to the UTXOs.
 
 Actually, the wallet will perform a transaction (so it will cost 0.001 erg). The output boxes of this transaction will bring information in it registers:
-    • R4: longitude of the city linked to the wallet 
-    • R5: latitude of the city linked to the wallet 
-    • R6: hashed code from LEW
+- R4: longitude of the city linked to the wallet 
+- R5: latitude of the city linked to the wallet 
+- R6: hashed code from LEW
     
 Through the implementation of a guard script, the R6 information will forbid any other wallet than a LEW to spend the box.
 
