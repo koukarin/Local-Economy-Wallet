@@ -1,5 +1,5 @@
 # Local-Economy-Wallet
-Add a local component on cryptocurrencies on Ergo
+Add a local component on cryptocurrencies based on Ergo
 
 # Global Economy
 We live in a world driven by the global economy. The industries and goods production tend to be made where the cost is the lowest.
