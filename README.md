@@ -8,10 +8,10 @@ Usually, it is closely linked to the people living in the production area. It is
 Therefore, goods with low-skilled needs are produced where buying human time is cheap. High technology goods are produced where people are able to make it even if their skills are expensive.
 
 Thus situations tend to:
-  • centralize the know-how. People interested in a specific technology have to move to the area where the production is. In the same time, it becomes         difficult to improve local knowledge if your skilled people moved to another place. 
-  • push salaries from top to bottom: if 2 localities have the same level of skill to produce a good, it makes sense to have lower salaries to incentive       industries to come. 
-  • increase the transport distance: centralizing the production implies the need of dispatching the goods all around the world. It’s a nonsense in terms       of ecology and energy consumption. 
-  • move most of the benefits to just a few investors. 
+- centralize the know-how. People interested in a specific technology have to move to the area where the production is. In the same time, it becomes      difficult to improve local knowledge if your skilled people moved to another place. 
+- push salaries from top to bottom: if 2 localities have the same level of skill to produce a good, it makes sense to have lower salaries to incentive    industries to come. 
+- increase the transport distance: centralizing the production implies the need of dispatching the goods all around the world. It’s a nonsense in terms   of ecology and energy consumption. 
+- move most of the benefits to just a few investors. 
   
 # Local Currencies
 The Global Economy is not recent. It has been built for decades or centuries.
