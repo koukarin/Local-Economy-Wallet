@@ -47,7 +47,7 @@ Big cities are the economic lung of areas. So we will build the local component 
 
 Our innovation will take the form of a wallet. We’ll call it: the Local Economy Wallet (LEW). It will be divided in two sections. The first one will work as the current wallets we use. But it will be able to add local components to the coins and tokens in the second section of the wallet.
 
-At the creation of the wallet, you’ll have to indicate a big town around you (from a list already defined). The GPS coordinates of the big city you chose will be definitively linked to your address inside the LEW.
+At the creation of the wallet, you’ll have to indicate a city around you (from a list already defined). The GPS coordinates of the big city you chose will be definitively linked to your address inside the LEW.
 
 When you decide to send coins and tokens from the first section to the second section, the GPS coordinates of your reference city will be added to the UTXOs.
 
