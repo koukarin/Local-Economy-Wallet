@@ -109,7 +109,7 @@ Following this method:
 - if the distance between Bob’s City and Alice’s City is equal to 1,000 km, then fees = 1%.
 - if the distance between Bob’s City and Alice’s City is equal to 5,000 km, then fees = 5%.
 - if the distance between Bob’s City and Alice’s City is equal to 10,000 km or more, then fees = 10%.
-- 
+
 These fees will be sent to the wallet which have same R4 and R5 than the input box. In other words, the fees will be sent to the main city wallet to which Bob’s LEW refers.
 
 ***Case 3:***
