@@ -95,3 +95,10 @@ The transaction compares R4 and R5 between input boxes and output boxes, which a
 
 We can obtain the distance in meters between their cities through GPS coordinates thanks to the following formula:
 <p align="center">$Distance = arc cos (sin ϕA*sin ϕB + cos ϕA * cos ϕB * cos dλ)$</p>
+
+$dλ: λB-λA$
+$ϕA: Latitude of City A$
+$λA: Longitude of City B$
+$ϕB: Latitude of City B$
+$λB: Longitude of City B$
+
